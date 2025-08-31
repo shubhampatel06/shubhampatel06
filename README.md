@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Science & Engineering Student | Aspiring Software Engineer | Machine Learning & Web Development Enthusiast</h3>
 
 
-<img align="right" alt="coding" width="4" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnp4eTY1aGg4Z2hxcmhxM3IxbzA5MG9qYmQwdjE4dThzd3p5NHQ4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sRFEa8lbeC7zbcIZZR/200.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampatel06&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampatel06" /> </p>
