@@ -1,3 +1,4 @@
+![logo](https://github.com/shubhampatel06/shubhampatel06/blob/main/laptop-with-glowing-screen-table-dark-top-view-copy-space.jpg)
 <h1 align="center">Hi 👋, I'm Shubham Kr. Patel.</h1>
 <h3 align="center">💻 Computer Science & Engineering Student | Aspiring Software Engineer | Machine Learning & Web Development Enthusiast</h3>
 
