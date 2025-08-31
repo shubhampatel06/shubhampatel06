@@ -42,6 +42,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhampatel06&show_icons=true&locale=en&layout=compact" alt="shubhampatel06" /></p>
+<br>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhampatel06&show_icons=true&locale=en" alt="shubhampatel06" /></p>
